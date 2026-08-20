@@ -1,0 +1,3 @@
+git pull, git fetch, gitclone
+This is the 4th practical which i have created
+
